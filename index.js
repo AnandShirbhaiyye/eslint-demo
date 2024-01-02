@@ -1,5 +1,3 @@
-let didshowMessage = false
-
 function showMessage(){
     const message = "I Like Books";
 
